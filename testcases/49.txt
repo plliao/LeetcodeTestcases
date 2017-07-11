@@ -1,0 +1,3 @@
+["eat","tea","tan","ate","nat","bat"]
+["aaab", "aaab", "baba", "aaba","bbaa","baba","abab","baba","aabb"]
+["a","aa","aaa","aba","baa","aab","abcd","cbda","ccda","bdac","bacd","adcb"]
