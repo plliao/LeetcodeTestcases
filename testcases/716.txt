@@ -1,0 +1,4 @@
+["MaxStack","push","push","push","top","popMax","top","peekMax","pop","top"]
+[[],[5],[1],[5],[],[],[],[],[],[]]
+["MaxStack","push","popMax","push","push","popMax","pop","push","push","peekMax","popMax","push","pop","push","push"]
+[[],[74],[],[89],[67],[],[],[61],[-77],[],[],[81],[],[-71],[32]]
